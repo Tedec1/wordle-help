@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+A:/C++ Workspace/wordle_help/main.cpp
+iostream
+-
+vector
+-
+map
+-
+set
+-
+fstream
+-
+
